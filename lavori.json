@@ -1,0 +1,16 @@
+{
+    "UX": [
+        { "titolo": "Lavoro 1"  ,"link": "lavoro1.php", "img": "img/ux1.png", "alt": "foto1" },
+        { "titolo": "Lavoro 2"  ,"link": "lavoro2.php", "img": "img/ux2.png", "alt": "foto2" }
+    ],
+
+    "Front-end": [
+        { "titolo": "Lavoro 3"  ,"link": "lavoro3.php", "img": "img/fe1.png", "alt": "foto3" },
+        { "titolo": "Lavoro 4"  ,"link": "lavoro4.php", "img": "img/fe2.png", "alt": "foto4" }
+    ],
+
+    "Back-end": [
+        { "titolo": "Lavoro 5"  ,"link": "lavoro5.php", "img": "img/be1.png", "alt": "foto1" },
+        { "titolo": "Lavoro 6"  ,"link": "lavoro6.php", "img": "img/be2.png", "alt": "foto2" }
+    ]
+}

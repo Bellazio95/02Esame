@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1 ,
+        "nome" : "Home",
+        "url" : "index.php",
+        "title" : "Vai alla home"
+    },
+
+    {
+        "id" : 2,
+        "nome" : "Chi Sono",
+        "url" : "chiSono.php",
+        "title" : "Vai alla pagina Chi Sono"
+    },
+
+    {
+        "id" : 3,
+        "nome" : "Servizi",
+        "url" : "servizi.php",
+        "title" : "Vai alla pagina Servizi"
+    }
+
+]

@@ -1,0 +1,42 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: $bg_f;
+    color: $colore_n;
+    height: auto;
+    font-size: 14px;
+
+
+
+    #recapiti{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: 14px;
+        width:100% ;
+        padding: 0 10%;
+
+        
+        p {
+            padding-left: 14px;
+            font-size: 26px;
+            text-align: center;
+            
+
+            @media (min-width: 768px){
+                font-size: 35px;
+            }
+        }
+
+        a{
+            color: $colore1;
+            margin: 14px;
+            text-decoration: none;
+
+            &:hover{
+                color: $colore2;
+            }
+        }
+    }
+}

@@ -1,0 +1,167 @@
+
+ // style header.php
+    nav{
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 80px;
+        width: 100%;
+        z-index: 1000;
+        padding: 0;
+        margin: 0;
+        background-color: $bg_n;
+
+        #logo{
+            height:70px;
+            width: 25%;
+            justify-content: flex-start;
+            margin: 5px;
+            
+            img{
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            } 
+        }
+        
+        #menù{
+            display: flex;
+            justify-content:flex-end;
+            width: 75%;
+
+            @media (min-width: 1024px) {
+                width: 85%;
+                justify-content: space-between;
+                margin: 0;
+            }
+
+          
+            #controllo {
+                opacity: 0;
+
+                @media (min-width: 1024px) {
+                    display: none; 
+                }
+        
+            }
+
+            #controllo:checked~ul{
+                right:0; 
+                top:60px;
+                width: 100%;
+            }
+            #controllo:checked+.label-controllo>span{
+                transform: rotate(45deg);
+                background-color: $colore_n;
+            }    
+        
+           #controllo:checked+.label-controllo>span::before{
+                transform: rotate(0deg);
+                top: 0;
+                background-color: $colore_n;
+            }    
+        
+           #controllo:checked+.label-controllo>span::after{
+                transform: rotate(90deg);
+                top: 0;
+                background-color: $colore_n;
+            }    
+
+            .label-controllo{
+                display: block;
+                cursor: pointer;       
+                height: 32px;
+                margin-top: 35px;
+                margin-right: 50px;
+                width: 10px;
+
+                &>span,
+                &>span::after,
+                &>span::before{
+                position: absolute;
+                width: 32px;
+                height: 5px;
+                background-color: $colore_n;
+                transition-duration: 0.5s;
+                z-index: 1001;
+                }
+
+                &>span::after{
+                    content: '';
+                    top: -8px;
+                }
+
+                &>span::before{
+                    content: '';
+                    top: 8px;
+                }
+
+                @media (min-width: 1024px) {
+                    display: none; 
+                }
+        
+             
+            }
+            ul{
+                display: block;
+                position: fixed;
+                top: 100px;
+                padding: 0;
+                right: -100%;
+                width: 25%; 
+                height: auto; 
+                background-color: $bg_n; 
+                transition: right 0.3s ease-in-out; 
+                z-index: 999;
+
+                @media (min-width: 1024px) {
+                    display: flex;
+                    position: static;
+                    justify-content: space-around;
+                    width: auto;
+                    height: auto;
+                    flex-direction: row;
+                    background-color: transparent;
+                    border: none;
+                    width: 80%;
+                }
+        
+                a{
+                    text-decoration: none;
+                    margin:0 ;
+                    padding:0;
+
+                    
+
+                    li{
+                        margin: 0;
+                        padding: 35px;
+                        position: relative;
+                        text-align: center;
+                        font-size: 25px;
+                        width: 100%;
+                        list-style: none;
+                        color:$colore_n;
+
+                        &:hover{
+                            background-color:$colore_n;
+                            border: 2px solid transparent;
+                            color: $colore1;
+                        }
+
+                        
+                        @media (min-width: 1024px) {
+                            padding: 10px 20px;
+                            display: flex;
+                            justify-content: space-around;
+                        }
+                    }
+                 }      
+            }
+        }
+    }
+
+
+        
+ 

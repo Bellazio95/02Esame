@@ -1,0 +1,159 @@
+{
+
+
+   "home":[
+      {"title" : "Index",
+      "copertina" :  "img/Immagine-copertina.png",
+      "copertinaSmart" : "img/Foto-copertina-smart.png",
+      "titoloCopertina" : "SONO BRUGALI FRANCESCO",
+      "testoCopertina" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque, veniam earum natus officia porro velit possimus sequi dolorum fuga alias Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque, veniam earum natus officia porro velit possimus sequi dolorum fuga alias?",
+      "titoloTesto" : "Competenze",
+      "contenutoTesto" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque, veniam earum natus officia porro velit possimus sequi dolorum fuga alias? Quisquam, saepe. Nisi doloremque possimus qui! Lorem ipsum, dolor sit amet consectetur adipisicing elit. ",
+
+      "competenza" :["competenze 1", "competenze 3","competenze 3","competenze 4", "competenze 5" ],
+      "immagine" : "img/Foto-Competenze.png",
+      "linkInfo" : "contatti.php",
+      "testoLink" : "Contattami"
+      }
+   ],
+
+   "chiSono" :[
+      {
+         "title" : "ChiSono",
+         "titoloP" : "MI PRESENTO", 
+         "capitoli":[
+            {
+               "titolo" : "Chi Sono",
+               "testo" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque veniam earum natus officia porro velit possimus sequi dolorum fuga alias? Quisquam, saepe. Nisi doloremque possimus qui! Lorem ipsum, dolor sit amet consectetur adipisicing eli. Dolorem fugit ipsam molestiae impedit dolor sit amet consectetur adipisicing elit. Dolorem fugit ipsam molestiae impedi Quo illum adipisci id atque veniam earum natus officia porro velit possimus sequi dolorum fuga alias? Quisquam, saepe."
+            },
+            {
+               "titolo" : "La mia storia",
+               "testo" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque veniam earum natus officia porro velit possimus sequi dolorum fuga alias? Quisquam, saepe. Nisi doloremque possimus qui! Lorem ipsum, dolor sit amet consectetur adipisicing eli."
+            },  
+            { 
+               "titolo" : "I miei Metodi",
+               "testo" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum adipisci id atque veniam earum natus officia porro velit possimus sequi dolorum fuga alias? Quisquam, saepe. Nisi doloremque possimus qui! Lorem ipsum, dolor sit amet consectetur adipisicing eli. Dolorem fugit ipsam molestiae impedit dolor sit amet consectetur adipisicing elit. Dolorem fugit ipsam molestiae impedi"
+            }
+         ]  
+      }
+   ],
+
+   "servizi" :[
+      {
+         "title" : "Servizi",
+         "titoloP" : "SERVIZI CHE OFFRO",
+         "linkLav" : "lavori.php",
+         "buttonLink" : "I miei lavori",
+
+         "container" : [
+            {
+               "img" : "img/logo-ux.png", "titolo" : "UX", "testo" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur"
+            },
+            {
+               "img" : "img/logo-front-end.png", "titolo" : "FRONT-END", "testo" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur"
+            },
+            {
+               "img" : "img/logo-back-end.png", "titolo" : "BACK-END", "testo" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore iure distinctio possimus autem blanditiis corrupti quibusdam laborum aperiam nesciunt excepturi. Optio, consectetur."
+            }
+         ]
+      }
+   ],
+   "lavori" :[
+      {
+         "title" : "Lavori",
+         "titolo" : "I MIEI LAVORI"
+      }
+   ],
+
+   "lavoroUx" : [
+      {
+         "title1" : "Lavoro 1",
+         "title2" : "Lavoro 2",
+         "img1" :"img/ux1.png", 
+         "img2" : "img/ux2.png",
+         "titoloInfo" : "Informazioni",
+         "lista" : ["DATA PROGETTO: 25/10/2023", "CATEGORIA: UX","SKILLS: FIGMA, CSS", "DESINGIN BY: Personale"],
+         "titoloDescrizione" : "Descrizione Progetto",
+         "testoDescrizione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloStrategia" : "Strategia del progetto",
+         "testoStrategia" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloSfida" : "Sfida del progetto",
+         "testoSfida" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+         "listaSfida" : ["Nanotechnology immersion information", "Bring to the table survival strategies", "Capitalize on low hanging identify", "Leverage agile frameworks to provide"],
+         "titoloSoluzione" : "Soluzione del progetto",
+         "testoSoluzione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+         "titoloRisultato" : "Risultato del progetto",
+         "testoRisultato" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus",
+         "titoloSito" : "Sito Progetto:",
+         "testoSito" : "Vista il risultato finale:",
+         "nomeSito" : "Rossi S.p.A"
+      }
+   ],
+   "lavoroFrontEnd" : [
+      {
+         "title3" : "Lavoro 3",
+         "title4" : "Lavoro 4",
+         "img3" :"img/fe1.png", 
+         "img4" : "img/fe2.png",
+         "titoloInfo" : "Informazioni",
+         "lista" : ["DATA PROGETTO: 25/10/2023", "CATEGORIA: FRONT-END","SKILLS: HTML, CSS", "DESINGIN BY: Personale"],
+         "titoloDescrizione" : "Descrizione Progetto",
+         "testoDescrizione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloStrategia" : "Strategia del progetto",
+         "testoStrategia" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloSfida" : "Sfida del progetto",
+         "testoSfida" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+         "listaSfida" : ["Nanotechnology immersion information", "Bring to the table survival strategies", "Capitalize on low hanging identify", "Leverage agile frameworks to provide"],
+         "titoloSoluzione" : "Soluzione del progetto",
+         "testoSoluzione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+         "titoloRisultato" : "Risultato del progetto",
+         "testoRisultato" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus",
+         "titoloSito" : "Sito Progetto:",
+         "testoSito" : "Vista il risultato finale:",
+         "nomeSito" : "Rossi S.p.A"
+      }
+   ],
+   "lavoroBackEnd" : [
+      {
+         "title5" : "Lavoro 5",
+         "title6" : "Lavoro 6",
+         "img5" :"img/be1.png", 
+         "img6" : "img/be2.png",
+         "titoloInfo" : "Informazioni",
+         "lista" : ["DATA PROGETTO: 25/10/2023", "CATEGORIA: BACK-END","SKILLS: PHP, SASS", "DESINGIN BY: Personale"],
+         "titoloDescrizione" : "Descrizione Progetto",
+         "testoDescrizione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloStrategia" : "Strategia del progetto",
+         "testoStrategia" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure et esse, possimus necessitatibus velit, iste accusamus animi delectus dolores cumque hic harum! Veritatis quos pariatur, dignissimos vel doloremque praesentium labore.",
+         "titoloSfida" : "Sfida del progetto",
+         "testoSfida" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+         "listaSfida" : ["Nanotechnology immersion information", "Bring to the table survival strategies", "Capitalize on low hanging identify", "Leverage agile frameworks to provide"],
+         "titoloSoluzione" : "Soluzione del progetto",
+         "testoSoluzione" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus, dolorum sed eveniet nostrum facilis, est voluptatem rerum, accusamus et architecto. Maxime vel non ipsa explicabo? Nulla debitis inventore obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nemo illo architecto temporibus! Nostrum architecto rem esse incidunt dicta, labore molestiae libero optio repudiandae? Dolorem magni cumque explicabo animi iusto? Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+         "titoloRisultato" : "Risultato del progetto",
+         "testoRisultato" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore nulla aliquid exercitationem nesciunt, rem tempore atque fugit, eligendi enim ea? Non impedit dolore cumque corrupti sed inventore dicta officiis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ducimus",
+         "titoloSito" : "Sito Progetto:",
+         "testoSito" : "Vista il risultato finale:",
+         "nomeSito" : "Rossi S.p.A"
+      }
+   ],
+
+   "contatto" :[
+      {
+         "title" : "CONTATTI",
+         "titoloForm" : "Scrivimi",
+         "nome" : "Nome",
+         "cognome" : "Cognome",
+         "telefono" : "Telefono",
+         "email" : "E-Mail",
+         "button" : "Invia",
+         "iframe" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2786.8974126672674!2d9.669463676639602!3d45.693030718141074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781510516795c61%3A0xc749d1708e8e5fa2!2sViale%20Papa%20Giovanni%20XXIII%2C%20Bergamo%20BG!5e0!3m2!1sit!2sit!4v1723493552263!5m2!1sit!2sit",
+         "numeroTel" : "+393454606603",
+         "linkEmail" : "brugali.francesco@outlook.com",
+         "titoloInd" : "Indirizzo",
+         "testoInd" : "Viale Papa Giovanni XXIII, Bergamo(Italia)"
+
+
+      }  
+   ]
+}
